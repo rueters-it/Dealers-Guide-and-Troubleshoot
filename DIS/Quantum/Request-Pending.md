@@ -1,6 +1,6 @@
 # Quantum Error 
 
-## Error: Request Stuck on "Pending"
+### Error: Request Stuck on "Pending"
 
 
 ![DIS Quantum - Request Pending](https://github.com/user-attachments/assets/6099d3e3-b3a2-4ace-adb1-92e7cc36912b)
