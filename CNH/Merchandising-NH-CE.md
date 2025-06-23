@@ -18,5 +18,7 @@ The "not secure" error you're encountering when accessing the New Holland CE mer
 4. Check and update your device's date and time settings.
 5. If the issue persists, contact the IT admin and they will resolve with the New Holland CE support team for assistance.
 
- ## New Holland Support Team 
- **New Holland Agcricultre Customer Service:** 1-866-639-4563
+ ## Resources
+ 1. [New Holland Construction website](https://construction.newholland.com/en-us/northamerica/service-and-support/solutions/service#:~:text=Please%20contact%20your%20nearest%20New,Some%20exclusions%20may%20apply.)
+ 2. [New Holland Construction "Contact Us" form](https://construction.newholland.com/en-us/northamerica/our-company/inside-new-holland/contact-us)
+ 3. **New Holland Agcricultre Customer Service:** 1-866-639-4563
