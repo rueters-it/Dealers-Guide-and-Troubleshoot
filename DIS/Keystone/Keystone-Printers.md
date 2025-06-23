@@ -60,7 +60,7 @@ Printers may not print if they have a Load Forms message appearing in System Ope
 ### Contact DIS Support 
 1. Email <support@discrp.com> for assistance.
 2. Try the new DIS Support Portal for help request
-3. Email <> (possible new support system/email)
+3. Email <DISLearn@discorp.com> (possible new support system/email)
 
 ## Resources 
 1. [DIS Support Portal](https://perseus.my.site.com/DISSupportPortal/s/login/)
