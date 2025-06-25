@@ -12,7 +12,8 @@ There are a number of reason why the printer may not be printing. See below for 
 1. Reset printer in Keystone.
 2. Reset printer's writer in an AS/400 Command Line in the Keystone/Quantum system.
 3. "Load Forms" message in system operator message.
-4. Contact DIS Support
+4. Power cycle
+5. Contact DIS Support
 
 ### Reset Printer in Keystone 
 
@@ -56,6 +57,11 @@ Printers may not print if they have a Load Forms message appearing in System Ope
 4. Rendered output is the Display Messages window:
    
    ![image](https://github.com/user-attachments/assets/22145006-be6e-4176-86e3-d03eca28a569)
+
+### Do a Power Cycle
+1. If the above options doesn't work, do a power cyle.
+2. Unblack the AC power adaptaer/network cables of the printer.
+3. Wait 30 secs > Plug wires back in > Boot back up.
 
 ### Contact DIS Support 
 1. Email <support@discrp.com> for assistance.
