@@ -6,7 +6,7 @@
 
 The ticket is sitting in the _Manual Authorized Transaction_ menu. This means that the system is unsure if the card was actually charged or not so the system keeps it open until that is determined. 
 
-### Troubleshoot 
+### Resolve duplicate transaction: 
 
 <img width="1163" height="549" alt="image" src="https://github.com/user-attachments/assets/2a59bf2d-0d4a-4147-96f0-72267598de15" />
 
@@ -18,4 +18,9 @@ The ticket is sitting in the _Manual Authorized Transaction_ menu. This means th
 #### If the card was CHARDGED:
 5. Click on the invoice to highlight it > Click on ALLOW BYPASS > This will let you go back into POS Invoicing and close the ticket without charging the card again.
 #### If the card was NOT charged:
-6. Click the RESET button and this will allow you to go to POS Invoicing and close the ticket and charge the card correctly.
+6. Click on the invoice to highligh > Click the RESET button and this will allow you to go to POS Invoicing and close the ticket and charge the card correctly.
+
+## Troubleshoot
+
+### Invoice not listed 
+- If the associated invoice is not listed on the Manually Auth Trans screen, a DIS Support technician will need be notified to update the files on their end. Email DIS Support. 
