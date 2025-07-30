@@ -7,6 +7,9 @@
 The ticket is sitting in the _Manual Authorized Transaction_ menu. This means that the system is unsure if the card was actually charged or not so the system keeps it open until that is determined. 
 
 ### Troubleshoot 
+
+  <img width="1163" height="549" alt="image" src="https://github.com/user-attachments/assets/6be210fc-6c45-4e4f-a70a-0f206b939ca9" />
+
 1. Go to POS > POST POS DOCUMENTS > TRANSMIT EDC CREDIT CARD TRANSACTION
 2. Select the card type that was used on this ticket
 3. On the following screen, click on the button for Manually Auth Trans (upper left corner)
