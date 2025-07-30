@@ -6,7 +6,7 @@
 
 The ticket is sitting in the _Manual Authorized Transaction_ menu. This means that the system is unsure if the card was actually charged or not so the system keeps it open until that is determined. 
 
-### Resolve duplicate transaction: 
+### Resolve duplicate transaction
 
 <img width="1163" height="549" alt="image" src="https://github.com/user-attachments/assets/2a59bf2d-0d4a-4147-96f0-72267598de15" />
 
