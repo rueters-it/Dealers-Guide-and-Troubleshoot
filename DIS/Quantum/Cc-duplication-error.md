@@ -1,4 +1,4 @@
-# CC Duplication error 
+# CC Duplication Error 
 
 ## ERROR: "Authorization was interrupted, check for duplicate transaction." 
 
