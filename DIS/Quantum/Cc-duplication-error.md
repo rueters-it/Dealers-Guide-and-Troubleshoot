@@ -23,4 +23,5 @@ The ticket is sitting in the _Manual Authorized Transaction_ menu. This means th
 ## Troubleshoot
 
 ### Invoice not listed 
-- If the associated invoice is not listed on the Manually Auth Trans screen, a DIS Support technician will need be notified to update the files on their end. Email DIS Support. 
+- If the associated invoice is not listed on the Manually Auth Trans screen, notify IT. A ticket will need to be submitted to DIS Support to update the files on their end.
+- DIS will reset the invoice. After reset notification from IT (or DIS), try closing it and charge the card like normal. 
