@@ -15,7 +15,7 @@ The ticket is sitting in the _Manual Authorized Transaction_ menu. This means th
 2. Select the card type that was used on this ticket
 3. On the following screen, click on the button for Manually Auth Trans (upper left corner)
 4. On the next screen, you should see the associated invoice sitting in the table
-#### If the card was CHARDGED:
+#### If the card WAS charged:
 5. Click on the invoice to highlight it > Click on ALLOW BYPASS > This will let you go back into POS Invoicing and close the ticket without charging the card again.
 #### If the card was NOT charged:
 6. Click on the invoice to highligh > Click the RESET button and this will allow you to go to POS Invoicing and close the ticket and charge the card correctly.
